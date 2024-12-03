@@ -16,6 +16,7 @@ Airbnb ingin menganalisis listings yang berada di Bangkok untuk memahami lebih b
 
 # **Dataset**
 Dataset ini dapet diakses melalui link berikut:
+
 https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF
 
 # **Kesimpulan**
