@@ -77,4 +77,5 @@ Dari analisis diatas kita dapat membuat rekomendasi persebaran jenis listing dar
 
 ## **Tableu**
 Jika ingin mengakses dashboard bisa menggunakan link berikut:
+
 [Tableu Dashboard](https://public.tableau.com/app/profile/naufal.mirza.maulana/viz/CapstoneModul2_AirbnbListingsBangkok/HomePage)
