@@ -1,10 +1,10 @@
 # Airbnb Listing Bangkok
 
-## **Latar Belakang**
+# **Latar Belakang**
 
 Airbnb adalah sebuah platform daring yang memfasilitasi pemilik properti untuk menyewakan ruang mereka kepada wisatawan atau pengunjung yang membutuhkan akomodasi sementara. Platform ini telah mengubah cara orang mencari tempat menginap, memudahkan proses pemesanan, dan menyediakan berbagai pilihan akomodasi yang lebih beragam daripada hotel tradisional. Pemilik properti dapat memasarkan rumah, apartemen, kamar, atau bahkan ruang unik lainnya kepada tamu dari seluruh dunia. Data yang tersedia di Airbnb untuk wilayah tertentu, seperti Bangkok, Thailand, mencakup informasi rinci tentang setiap listing yang terdaftar. Setiap baris dalam data tersebut menggambarkan satu unit akomodasi, sementara kolom-kolomnya menyajikan informasi penting seperti harga per malam, jenis properti, fasilitas yang ditawarkan, lokasi, rating tamu, dan banyak lagi. Hal ini memungkinkan calon tamu untuk membuat pilihan yang lebih informasional dan sesuai dengan kebutuhan mereka selama perjalanan.
 
-## **Rumusan dan Tujuan Masalah**
+# **Rumusan dan Tujuan Masalah**
 
 Airbnb ingin menganalisis listings yang berada di Bangkok untuk memahami lebih baik distribusi kamar dan kecocokan jenis akomodasi dengan preferensi konsumen di berbagai wilayah. Masalah yang dihadapi perusahaan adalah ketidaksesuaian antara persebaran kamar yang dimiliki dengan karakteristik wilayah di Bangkok. Variasi jenis kamar yang tidak tepat sesuai dengan kebutuhan dan keinginan pelanggan di setiap area dapat menghambat kemampuan Airbnb dalam memenuhi permintaan secara efisien. Hal ini berisiko mengurangi daya tarik perusahaan di pasar dan berpotensi mengurangi peluang untuk meningkatkan penjualan serta menarik lebih banyak tamu.Analisis ini bisa dijadikan dasar untuk ekspansi dan meningkatkan penjualan di tahun berikutnya. Informasi ini akan membantu tim Sales & Marketing AirBnB dalam menentukan lokasi yang strategis serta memperbaiki kualitas listing di setiap area. Oleh karena itu, fokus analisis sebaiknya pada:
 
@@ -14,11 +14,11 @@ Airbnb ingin menganalisis listings yang berada di Bangkok untuk memahami lebih b
 
 3. Bagaimana hubungan antara harga dan tingkat penjualan untuk setiap jenis kamar atau wilayah?
 
-## **Dataset**
+# **Dataset**
 Dataset ini dapet diakses melalui link berikut:
 https://drive.google.com/drive/folders/1A_KBMRFTS5Mthpp46nulso679ML4ZwTF
 
-## **Kesimpulan**
+# **Kesimpulan**
 
 Dari analisis yang telah dilakukan kita dapat mengambil kesimpulan sebagai berikut :
 
@@ -32,7 +32,7 @@ Dari analisis yang telah dilakukan kita dapat mengambil kesimpulan sebagai berik
 
 - Harga rata-rata di setiap wilayah Bangkok bervariasi tergantung pada jenis kamar dan lokasinya. Wisatawan dapat memilih wilayah yang sesuai dengan preferensi mereka dan menyesuaikan anggaran akomodasi mereka dengan mempertimbangkan harga rata-rata di setiap wilayah dan jenis kamar yang mereka inginkan.
 
-## **Rekomendasi**
+# **Rekomendasi**
 
 Dari analisis diatas kita dapat membuat rekomendasi persebaran jenis listing dari masing - masing wilayah :
 
@@ -75,7 +75,7 @@ Dari analisis diatas kita dapat membuat rekomendasi persebaran jenis listing dar
 
 - Fokus pada harga yang lebih rendah akan menarik penyewa yang mencari tempat tinggal lebih terjangkau namun tetap dengan fasilitas yang cukup. Ketersediaan dekat dengan area perbelanjaan dan ruang hijau juga akan meningkatkan daya tarik wilayah ini.
 
-## **Tableu**
+# **Tableu**
 Jika ingin mengakses dashboard bisa menggunakan link berikut:
 
 [Tableu Dashboard](https://public.tableau.com/app/profile/naufal.mirza.maulana/viz/CapstoneModul2_AirbnbListingsBangkok/HomePage)
